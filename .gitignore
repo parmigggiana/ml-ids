@@ -34,3 +34,8 @@ pip-selfcheck.json
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,virtualenv,venv
+
+dataset.zip
+Corrected_CICIDS2017/
+web_attacks_unbalanced.csv
+web_attacks_balanced.csv
