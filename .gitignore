@@ -36,6 +36,10 @@ pip-selfcheck.json
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,virtualenv,venv
 
 dataset.zip
+2018dataset.zip
 Corrected_CICIDS2017/
+Corrected_CSECICIDS2018/
 web_attacks_unbalanced.csv
 web_attacks_balanced.csv
+archived_pcaps
+definitive_dataset.csv
